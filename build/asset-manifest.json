@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.b7bee06b.css",
+    "main.js": "/build/static/js/main.db0efbfa.js",
+    "static/media/close.svg": "/build/static/media/close.b83c20235d017b227db194cb10e220d9.svg",
+    "static/media/remove.svg": "/build/static/media/remove.f5660af3f4262fb01687c538e6caa2fa.svg",
+    "index.html": "/build/index.html",
+    "static/media/edit.svg": "/build/static/media/edit.1bda04debc6a00bb6304fcc883004151.svg",
+    "static/media/add.svg": "/build/static/media/add.c4fa83e1531853436062fd8c7a459787.svg",
+    "main.b7bee06b.css.map": "/build/static/css/main.b7bee06b.css.map",
+    "main.db0efbfa.js.map": "/build/static/js/main.db0efbfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7bee06b.css",
+    "static/js/main.db0efbfa.js"
+  ]
+}
